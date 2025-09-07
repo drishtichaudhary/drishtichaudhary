@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drishtichaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="drishtichaudhary" /> </p>
 
-- 🔭 I’m currently working on **CoinCap App**
+- 🔭 I’m currently working on **Workflows 🧑‍💻 and Automations 🏃‍♀️**
 
-- 🌱 I’m currently learning **Flutter, Machine Learning, HTML, CSS, Javascript, UI/UX Design**
+- 🌱 I’m currently learning **Agentica AI 👩‍💻, Vibe Coding 👾, Automations 🖥️, Flutter, Machine Learning and UI/UX Design**
 
 - 💬 Ask me about **Flutter, Machine Learning, UI/UX Design**
 
