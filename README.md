@@ -22,7 +22,7 @@
 <a href="https://instagram.com/drishtichaudhary616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drishtichaudhary616" height="30" width="40" /></a>
 <a href="https://dribbble.com/drishti chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="drishti chaudhary" height="30" width="40" /></a>
 <a href="https://www.behance.net/drishti chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="drishti chaudhary" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mbmojqsiw5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mbmojqsiw5" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/drishtichaudhary616/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mbmojqsiw5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
