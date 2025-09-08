@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Workflows 🧑‍💻 and Automations 🏃‍♀️**
 
-- 🌱 I’m currently learning **Agentic AI 👩‍💻, Vibe Coding 👾, Automations 🖥️, Flutter, Machine Learning and UI/UX Design**
+- 🌱 I’m currently learning **Agentic AI 👩‍💻, Vibe Coding 👾and Automations 🖥️**
 
 - 💬 Ask me about **Flutter, Machine Learning, UI/UX Design**
 
